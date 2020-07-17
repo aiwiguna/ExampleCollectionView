@@ -13,6 +13,8 @@
 		D560D1C024C11CD200BB444B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D560D1BE24C11CD200BB444B /* Main.storyboard */; };
 		D560D1C224C11CD700BB444B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D560D1C124C11CD700BB444B /* Assets.xcassets */; };
 		D560D1C524C11CD700BB444B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D560D1C324C11CD700BB444B /* LaunchScreen.storyboard */; };
+		D560D1CD24C11D8F00BB444B /* TableCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D560D1CC24C11D8F00BB444B /* TableCollectionViewCell.swift */; };
+		D560D1CF24C11D9800BB444B /* GridCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D560D1CE24C11D9800BB444B /* GridCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		D560D1C124C11CD700BB444B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D560D1C424C11CD700BB444B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D560D1C624C11CD700BB444B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D560D1CC24C11D8F00BB444B /* TableCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableCollectionViewCell.swift; sourceTree = "<group>"; };
+		D560D1CE24C11D9800BB444B /* GridCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				D560D1B824C11CD200BB444B /* AppDelegate.swift */,
 				D560D1BA24C11CD200BB444B /* SceneDelegate.swift */,
 				D560D1BC24C11CD200BB444B /* ViewController.swift */,
+				D560D1CC24C11D8F00BB444B /* TableCollectionViewCell.swift */,
+				D560D1CE24C11D9800BB444B /* GridCollectionViewCell.swift */,
 				D560D1BE24C11CD200BB444B /* Main.storyboard */,
 				D560D1C124C11CD700BB444B /* Assets.xcassets */,
 				D560D1C324C11CD700BB444B /* LaunchScreen.storyboard */,
@@ -141,6 +147,8 @@
 				D560D1BD24C11CD200BB444B /* ViewController.swift in Sources */,
 				D560D1B924C11CD200BB444B /* AppDelegate.swift in Sources */,
 				D560D1BB24C11CD200BB444B /* SceneDelegate.swift in Sources */,
+				D560D1CD24C11D8F00BB444B /* TableCollectionViewCell.swift in Sources */,
+				D560D1CF24C11D9800BB444B /* GridCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
